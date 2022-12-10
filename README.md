@@ -1,4 +1,4 @@
-# jogos-de-tabuleiro
+## Jogos de Tabuleiro :chess_pawn:
 
 Jogo da Velha, Damas, Charada, Par ou Ímpar ou Pedra, Papel ou Tesoura.
 
