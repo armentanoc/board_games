@@ -8,10 +8,11 @@ public class JogoDaVelha {
 
 		int lTab = 4, cTab = 4, quer;
 
+		do { 
+			
 		String[][] tabuleiro = tabuleiro(nomeJogador, lTab, cTab);
 		String[] separador = separador(); 
 
-		do { 
 			Print.p("\nJOGO DA VELHA"
 				+ "\n");
 
@@ -27,7 +28,7 @@ public class JogoDaVelha {
 		
 		Scanner sc = new Scanner(System.in);
 		quer = sc.nextInt();
-
+	
 		} while(quer == 1);
 
 		Print.p("Até a próxima!");

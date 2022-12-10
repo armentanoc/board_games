@@ -7,7 +7,7 @@ public class Play {
 	public static void main(String[] args) {
 
 		Print.p("\n"
-				+ "JOGOS LPA - AEDLL"
+				+ "JOGOS DE TABULEIRO NO TERMINAL"
 				+ "\n"	
 				+ "\nOlá! Informe seu nome:");
 

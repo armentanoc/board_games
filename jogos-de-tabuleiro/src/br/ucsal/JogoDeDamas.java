@@ -10,7 +10,7 @@ public class JogoDeDamas {
 
 		do {
 			
-			Print.p("\nJOGO DE DAMAS");
+			Print.p("\nJOGO DE DAMAS - In Progress");
 
 			String [][] tabuleiroInicial = tabuleiro();
 
