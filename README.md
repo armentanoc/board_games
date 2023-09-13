@@ -9,7 +9,7 @@ This software presents a collection of board games, such as Tic-Tac-Toe, Checker
 ## Setup
 1. Fist, clone the repo:
 ```
-git clone https://github.com/armentc/jogos_de_tabuleiro.git
+git clone https://github.com/armentanoc/board_games/tree/main
 ``` 
 2. Then, using an IDE such as VsCode, run the class ```Play.java```. 
 
